@@ -352,7 +352,7 @@ function VerifySection() {
             </BrutalCard>
 
             <MetadataCard
-              title="OCR Metadata"
+              title="Detail"
               studentName={result.data?.studentName}
               studentNim={result.data?.studentNim}
               certificateNumber={result.data?.certificateNumber}
